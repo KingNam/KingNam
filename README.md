@@ -2,7 +2,7 @@
 - 👀 I’m interested in 사람들은 뭘 하면서 살까??
 - 🌱 I’m currently learning ML basic
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me soyou07291@gmail.com
 
 <!---
 KingNam/KingNam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
